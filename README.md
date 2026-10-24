@@ -1,5 +1,5 @@
 # Clap Lights for Apple HomeKit
-##Demo
+## Demo
 
 
 https://github.com/user-attachments/assets/0d3d99d6-7a7c-4fa7-b712-07b57c5665b5
