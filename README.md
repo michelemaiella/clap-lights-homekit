@@ -1,4 +1,10 @@
 # Clap Lights for Apple HomeKit
+##Demo
+
+
+https://github.com/user-attachments/assets/0d3d99d6-7a7c-4fa7-b712-07b57c5665b5
+
+
 
 Turn the lights of a room on and off with a **hand clap**, using a €25 microcontroller that appears in Apple's Home app as a native HomeKit accessory, with no cloud, bridge or extra app.
 
